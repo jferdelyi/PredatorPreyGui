@@ -10,11 +10,6 @@ namespace PredatorPrey {
     public enum CellState { Empty, Ant, Doodlebug, Unknown };
 
     /// <summary>
-    /// Direction of the agent
-    /// </summary>
-    public enum Direction { Up, Down, Left, Right };
-
-    /// <summary>
     /// Cell object
     /// </summary>
     public class Cell : DrawableObject {

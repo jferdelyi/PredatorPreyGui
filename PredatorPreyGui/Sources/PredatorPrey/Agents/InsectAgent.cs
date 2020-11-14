@@ -19,6 +19,12 @@ using System;
 using System.Collections.Generic;
 
 namespace PredatorPrey {
+
+    /// <summary>
+    /// Direction of the agent
+    /// </summary>
+    public enum Direction { Up, Down, Left, Right };
+
     /// <summary>
     /// Insect type
     /// </summary>
