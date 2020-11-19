@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredatorPreyGui", "PredatorPreyGui\PredatorPreyGui.csproj", "{6D4A5F25-D1EE-4A92-BD63-F87D8CD7E17B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredatorPreyFormGui", "PredatorPreyFormGui\PredatorPreyFormGui.csproj", "{6DFE96C1-5043-4EF9-943A-9ACDFCEFAE0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredatorPreyFormGui", "PredatorPreyFormGui\PredatorPreyFormGui.csproj", "{6DFE96C1-5043-4EF9-943A-9ACDFCEFAE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredatorPreyUnityLib", "PredatorPreyUnityLib\PredatorPreyUnityLib.csproj", "{6A732138-15E6-4E07-986B-78CD1EBBE8F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6DFE96C1-5043-4EF9-943A-9ACDFCEFAE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DFE96C1-5043-4EF9-943A-9ACDFCEFAE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DFE96C1-5043-4EF9-943A-9ACDFCEFAE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A732138-15E6-4E07-986B-78CD1EBBE8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A732138-15E6-4E07-986B-78CD1EBBE8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A732138-15E6-4E07-986B-78CD1EBBE8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A732138-15E6-4E07-986B-78CD1EBBE8F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
